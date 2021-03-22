@@ -5,8 +5,8 @@ In this repository are uploaded the file .xlsx relative to each test perfomed fo
 The .xlsx files are composed by the following sheets and data:
 
 1) Parameters:
-ExoHip: Hip misalignment calculated as 	Leg-Replica_Hip_Position - Exo_Hip_Position [cm]
-ExoKnee: Knee misalignment calculated as 	Leg-Replica_Knee_Position - Exo_Knee_Position	[cm]						
+ExoHip: Hip misalignment calculated as Leg-Replica_Hip_Position - Exo_Hip_Position [cm]
+ExoKnee: Knee misalignment calculated as Leg-Replica_Knee_Position - Exo_Knee_Position [cm]						
 MarchVelocity: Selected velocity speed of the gait (1-10)	
 TimeShift: Time shift between Leg-Replica data and Exoskeleton data [s] 	
 SkinConfig: Configuration of soft tissue 
@@ -26,7 +26,7 @@ F_numcell_component [N] (Example F3x: load cell 3, x component)
 
 4) H3raw:
 Contains the raw data received from the exoskeleton evaluated in the testbed validation (H3 Technaid S.L.)
-Time: Time of H3 data, 100Hz sample rate	
+Time: Time of H3 data, 100Hz sample rate
 RhipPosition: Right hip angular position [deg]	
 RkneePosition: Right knee angular position [deg]
 RanklePosition: Right ankle angular position [deg]	
